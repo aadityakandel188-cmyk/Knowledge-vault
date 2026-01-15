@@ -1,0 +1,7 @@
+{
+  "name": "The Knowledge Vault",
+  "description": "A professional, high-tech digital library for aerospace, AI, and sustainability experts featuring real-time search, intelligent filtering, and an integrated AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
